@@ -1,4 +1,4 @@
-#Password Generator
+# Password Generator
 A simple and lightweight password generator written in C#.
 
 Features:
