@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Windows.Forms;
 
-namespace KingVonPasswordManager
+namespace PasswordGenerator
 {
     public partial class PasswordGen : Form
     {

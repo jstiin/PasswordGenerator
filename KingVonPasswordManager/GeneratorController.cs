@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace KingVonPasswordManager
+namespace PasswordGenerator
 {
     internal class GeneratorController
     {

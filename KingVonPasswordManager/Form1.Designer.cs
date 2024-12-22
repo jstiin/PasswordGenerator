@@ -1,4 +1,4 @@
-﻿namespace KingVonPasswordManager
+﻿namespace PasswordGenerator
 {
     partial class PasswordGen
     {
