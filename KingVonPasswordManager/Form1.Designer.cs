@@ -103,7 +103,7 @@
             // pictureBox1
             // 
             this.pictureBox1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox1.Image = global::KingVonPasswordManager.Properties.Resources.ad;
+            this.pictureBox1.Image = global::PasswordGenerator.Properties.Resources.ad;
             this.pictureBox1.Location = new System.Drawing.Point(0, 177);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(332, 220);
